@@ -1,4 +1,4 @@
-package com.example.SpringBootUI;
+package com.spring.boot.architectui;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.SpringBootUI;
+package com.spring.boot.architectui;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

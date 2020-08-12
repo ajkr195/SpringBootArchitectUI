@@ -1,4 +1,4 @@
-package com.example.SpringBootUI;
+package com.spring.boot.architectui;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
